@@ -45,13 +45,14 @@ The AI wanted to keep the try/except Type Error block in check_guess, but I want
   and what it showed you about your code.
 - Did AI help you design or understand any tests? How?
 
+ ---- I was able to see whether a bug was fixed by running the game and seeing if the problem was still there. Also, Claude was able to give me advice on what it thought looked correct, and then I was able to double check.
 ---
 
 ## 4. What did you learn about Streamlit and state?
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
 
----
+--- I would tell them it's like a GBA emulator save state, where you have your game running and your playing, but you can reset to that point at any time and keep making your own states.
 
 ## 5. Looking ahead: your developer habits
 
@@ -59,3 +60,5 @@ The AI wanted to keep the try/except Type Error block in check_guess, but I want
   - This could be a testing habit, a prompting strategy, or a way you used Git.
 - What is one thing you would do differently next time you work with AI on a coding task?
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+
+---- Overall, I think the use of AI in this project was really helpful, because it helped me see exactly was wrong with the code and really helped make sure that I can debug the program properly. Without it, this definitely would have taken a lot more time and potentially even days to fix.
